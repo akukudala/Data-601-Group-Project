@@ -2,7 +2,7 @@
 library(psych)
 library(car)
 library(readxl)
-Cleaned_data601 <- read_excel("Downloads/Cleaned_data601.xlsx")
+Cleaned_data601 <- read_excel("Cleaned Graduation Factors Data for MD, VA, DC by year, 2015-2021.xlsx")
 
 #-------------------------------------------------------------------------------
 # Linear Model: Graduation Rate vs Unemployment Rate
