@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 # Semester Project: Introduction to Data Science
-# Autor: Jessica Reynolds
+# Author: Jessica Reynolds
 #-------------------------------------------------------------------------------
 
 #Load required libraries and read xls file
