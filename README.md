@@ -19,4 +19,6 @@ There was a stand-alone presentation, as well as a stand-alone project write up 
 ## NOTE ##
 In order to run the "Combined Akshitha + Adam notebooks.ipynb", both cleaned data sets are required.  Akshitha's half of the code uses "Cleaned_data601.xlsx" and Adam's half of the code uses "Cleaned Graduation Factors Data for MD, VA, DC by year, 2015-2021.xlsx".
 
-Jessica's code only requires "Cleaned Graduation Factors Data for MD, VA, DC by year, 2015-2021.xlsx".
+Jessica's code requires "Cleaned Graduation Factors Data for MD, VA, DC by year, 2015-2021.xlsx" and now "2019 Risk Factors.xlsx".
+
+Last updated 5/11/2022
