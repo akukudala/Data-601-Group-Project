@@ -7,7 +7,7 @@
 library(psych)
 library(car)
 library(readxl)
-Cleaned_data601<- read_excel("Cleaned_data601.xlsx")
+Cleaned_data601<- read_excel("Cleaned Graduation Factors Data for MD, VA, DC by year, 2015-2021.xlsx")
 #Removed unwanted Characters/Spaces from Column Names
 names(Cleaned_data601) <- gsub(" ", "", names(Cleaned_data601))
 names(Cleaned_data601) <- gsub("%", "", names(Cleaned_data601))
